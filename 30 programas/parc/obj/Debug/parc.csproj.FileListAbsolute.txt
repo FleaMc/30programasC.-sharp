@@ -1,0 +1,5 @@
+C:\Users\maic_\OneDrive\Documentos\SharpDevelop Projects\parc\parc\obj\Debug\parc.csprojResolveAssemblyReference.cache
+C:\Users\maic_\OneDrive\Documentos\SharpDevelop Projects\parc\parc\bin\Debug\parc.exe
+C:\Users\maic_\OneDrive\Documentos\SharpDevelop Projects\parc\parc\bin\Debug\parc.pdb
+C:\Users\maic_\OneDrive\Documentos\SharpDevelop Projects\parc\parc\obj\Debug\parc.exe
+C:\Users\maic_\OneDrive\Documentos\SharpDevelop Projects\parc\parc\obj\Debug\parc.pdb
